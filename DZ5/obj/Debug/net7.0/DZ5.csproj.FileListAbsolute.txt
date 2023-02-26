@@ -1,0 +1,15 @@
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.csproj.AssemblyReference.cache
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.AssemblyInfoInputs.cache
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.AssemblyInfo.cs
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.csproj.CoreCompileInputs.cache
+C:\Users\Home\PGC\Lessons_C\DZ5\bin\Debug\net7.0\DZ5.exe
+C:\Users\Home\PGC\Lessons_C\DZ5\bin\Debug\net7.0\DZ5.deps.json
+C:\Users\Home\PGC\Lessons_C\DZ5\bin\Debug\net7.0\DZ5.runtimeconfig.json
+C:\Users\Home\PGC\Lessons_C\DZ5\bin\Debug\net7.0\DZ5.dll
+C:\Users\Home\PGC\Lessons_C\DZ5\bin\Debug\net7.0\DZ5.pdb
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.dll
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\refint\DZ5.dll
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.pdb
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\DZ5.genruntimeconfig.cache
+C:\Users\Home\PGC\Lessons_C\DZ5\obj\Debug\net7.0\ref\DZ5.dll
